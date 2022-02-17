@@ -9,10 +9,12 @@ module.exports = {
       }
     },
     colors: {
-      "army-green": " #42500Fff",
-      "green-blue": "#4492C4ff",
-      "moss-green": " #8D9236ff",
-      "khaki-web": "#C9B996ff"
+      "black": "#1A2601",
+      "blue": "#049DD9",
+      "yellow": "#F2E6D8",
+      "button": "#A69E2D",
+      "twt": "#1D9BF0",
+      'white':"#FFFFFF"
     },
   },
   plugins: [],
